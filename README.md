@@ -1,4 +1,4 @@
-# G12_website-project
+# E-Commerce
 
 ![G12-p1](https://user-images.githubusercontent.com/88741336/199429948-4829ca1f-256f-47ca-afec-7c97514dd010.png)
 ![image](https://user-images.githubusercontent.com/88741336/199435109-d49c6ff0-b67e-4695-b79b-30e089752bac.png)
